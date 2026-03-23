@@ -1,1 +1,1 @@
-# namazz
+# Namaz Vakitleri
